@@ -147,6 +147,7 @@ Real_State_Firm_Design/
 │   └── Real_State_Firm_Implementation.sql
 │
 └── README.md
+```
 
 ---
 
